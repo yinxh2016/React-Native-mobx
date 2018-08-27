@@ -1,0 +1,3 @@
+rootProject.name = 'DmeoMobx3'
+
+include ':app'
